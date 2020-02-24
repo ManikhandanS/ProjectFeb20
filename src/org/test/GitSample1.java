@@ -1,5 +1,6 @@
 package org.test;
 
-public class GitSample1 {
+public class GitSample1 
+{
 
 }
